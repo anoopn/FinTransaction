@@ -1,2 +1,3 @@
 # FinTransaction
-Transaction request and response
+
+Request message from customer for transaction.
